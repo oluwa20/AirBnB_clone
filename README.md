@@ -1,7 +1,6 @@
 # Airbnb Console Application
 
 This project is a console-based implementation of a simplified version of Airbnb, a vacation rental platform. It allows users to interact with the application through a command-line interface (CLI), enabling functionalities such as listing properties, searching for accommodations, making bookings, and managing reservations.
-:
 
 ## Command Interpreter
 
