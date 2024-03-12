@@ -3,6 +3,9 @@
 import uuid
 from datetime import datetime
 
+class Base:
+    """Base class for other classes to inherit from"""
+    pass
 
 class BaseModel:
     """A base class for all hbnb models"""
