@@ -28,5 +28,4 @@ Contributions to the project are welcome! Please follow the established coding c
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+This project is licensed under the [MIT License](LICENSE)
